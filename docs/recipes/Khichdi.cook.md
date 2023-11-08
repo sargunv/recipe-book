@@ -13,7 +13,7 @@ status: draft
 - *150 g* masoor dal (also known as red lentils)
 - *2 l* water
 - *5 g* salt
-- *283 g* frozen mixed vegetables
+- *283 g* frozen mixed vegetables (or one 10oz bag)
 - *5 g* ground turmeric root
 - *5 g* ground coriander
 - *5 g* ground cayenne pepper
@@ -56,6 +56,6 @@ and water.
 5. Set the pressure cooker to manual mode, high pressure, 0 minutes, and natural
 release.
 
-6. After the pressure cooker has pressurized (about 10 minutes), wait about 30
-minutes, release the pressure, then open the lid.
+6. After the pressure cooker has reached pressure (about 10 minutes), wait about
+30 minutes, release the remaining pressure, then open the lid.
 
