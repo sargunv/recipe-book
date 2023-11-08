@@ -2,6 +2,7 @@
 time: 40
 servings:
 - 4
+status: draft
 ---
 
 # Khichdi
