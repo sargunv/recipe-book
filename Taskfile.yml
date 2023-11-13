@@ -6,7 +6,7 @@ vars:
   GREETING: Hello, World!
 
 tasks:
-  default:
+  build:
     cmds:
       - rm -rf docs/recipes
       - mkdir -p docs/recipes
@@ -16,3 +16,10 @@ tasks:
       - recipes/**/*.cook
     generates:
       - docs/recipes/**/*.cook.md
+
+  check:
+    cmds:
+      - for: sources
+        cmd: chef recipe check '{{.ITEM}}'
+    sources:
+      - recipes/**/*.cook
