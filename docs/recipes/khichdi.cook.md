@@ -16,7 +16,7 @@ status: done
 - *5 g* ground coriander seed
 - *5 g* ground cayenne pepper
 - *2 g* hing (also known as asafoetida)
-- *25 g* avocado oil
+- *30 ml* avocado oil
 - *5 g* salt
 - *2 l* water
 - *283 g* frozen mixed vegetables (or one 10oz bag)

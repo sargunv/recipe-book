@@ -20,10 +20,10 @@ status: draft
 - *30 g* cilantro (about 1 bunch)
 - *2.5 g* cumin seeds
 - *10 g* ground coriander
-- *2.5g* ground cayenne pepper
+- *2.5 g* ground cayenne pepper
 - *2.5 g* black pepper
 - *500 mg* hing (also known as asafoetida)
-- *25 g* avocado oil
+- *30 ml* avocado oil
 - *283 g* frozen spinach (or one 10oz bag)
 - *6 ml* lemon juice (about 1/4 lemon)
 

@@ -20,7 +20,7 @@ status: draft
 - *200 g* roma tomatoes (about 2 tomatoes)
 - *20 g* garlic (about 4 cloves)
 - *7.5 g* ginger root (about 1 inch)
-- *100 ml* avocado oil
+- *120 ml* avocado oil
 - *12 g* serrano peppers (whole, about 2 peppers)
 - *473 ml* whole milk (pint sized carton)
 
